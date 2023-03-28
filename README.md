@@ -1,1 +1,4 @@
-# stravaheartrateanalysis
+# Exploration of Threshold Heart Rate Data on Performance
+Executive Summary
+
+This paper explores the relationship between desired heart rate during training and performance outcomes, specifically distance covered, speed, and time taken. The study utilizes personal data collected from Strava's API to examine this relationship. The findings suggest that there is a correlation between heart rate and performance outcomes, although the degree of correlation varies. The results suggest that desired heart rate during training can have an impact on performance outcomes, and thus should be considered when designing training programs. However, further research is needed to fully understand the relationship between heart rate and performance outcomes, and to identify the most effective training programs for different individuals. Overall, this study highlights the importance of monitoring heart rate during training and its potential impact on performance outcomes.
